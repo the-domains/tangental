@@ -1,0 +1,14 @@
+layout_spectrum: 0.37285267328843474
+typography_spectrum: 0.46163002075627446
+color:
+  brandStrength: 0.18592389090918005
+  lightness: 0.1399460865650326
+  saturation: 0.13968915562145412
+  rhythmicContrast: 0.4500605184584856
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Tangental
